@@ -11,7 +11,7 @@ class Application
       resp.write "You Win"
     else
       resp.write "You Lose"
-      en
+    end
   end
 
 end
